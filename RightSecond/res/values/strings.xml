@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RightSecond</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="jugar">Jugar</string>
+    <string name="title_activity_juego">Juego</string>
+    <string name="rs">Right Second</string>
+    <string name="nivel">N </string>
+    <string name="detener">Deneter</string>
+    <string name="mecanica">Jugar a Rigth Second es muy sencillo. Solo debes pulsar en el botón jugar y volver a pulsar cuando el contador llegue al segundo que aparece arriba a la derecha. El problema es que solo veras los tres primeros segundos de la cuenta, el resto deberas contarlos tu mentalmente.</string>
+    <string name="salir">Salir</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="nombre">Nombre:</string>
+    <string name="idioma">Idioma:</string>
+    <string name="ranking">Ranking</string>
+
+</resources>
